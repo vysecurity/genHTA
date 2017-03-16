@@ -1,0 +1,34 @@
+{{TITLE}}			London Fashion Week
+{{WINSTATE}}			WINDOWSTATE="maxIMize"
+{{SUBTITLE}}			Register Interest
+{{BANNER}}			data:image/png;base64,<BASE64>
+
+{{ABOUT1}}			Talk about who the organisation is
+{{ABOUT2}}			Talk about what this campaign is for
+
+
+{{QUESTION_BLOCK}}
+	
+Each Question needs to be:
+
+<h3>Do you have a favourite designer?</h3>
+<label>No |<input type="radio" name="q1" /></label><label><input type="radio" name="q1" /></label> | Yes
+<P>
+
+OR
+
+<h3>Full Name</h3>
+<input type="text" name="q6" style="width:1000px" /><br>
+<P>
+
+OR
+
+<h3>How did you find out about London Fashion Week?</h3>
+<textarea style="width:1000px;height:200px"></textarea>
+<p>
+
+
+Q has to rotate
+
+
+{{SUBMIT_MESSAGE}}		The submission message
